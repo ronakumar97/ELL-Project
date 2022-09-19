@@ -34,7 +34,7 @@ Install the **requirements.txt** file using the above command
 
 ##### **big_table.sql**
 - This SQL script joins several tables to form one big table with columns containing user information. Some of the columns are *[first_name, last_name, email, country, role, language, course_id, score, completion_percent, learning_skills_listening, learning_skills_writing, learning_skills_speaking, learning_skills_reading, level_id, completion_percent, progress_data]*
-- This table can be used for generating recommendaitons for every user
+- This table can be used for generating recommendations for every user
 
 ##### **student_data.sql**
 - This SQL script is a subset of the big_table being generated above to capture certain columns only
